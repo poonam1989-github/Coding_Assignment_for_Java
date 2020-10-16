@@ -20,7 +20,7 @@
        Username : SA
 
        password :
-
+New table created : EVENTLOGGER
 
 2. Execute the jar file on command line.
 
